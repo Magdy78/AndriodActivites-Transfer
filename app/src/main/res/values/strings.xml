@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2ActivityProject</string>
+    <string name="subtract">Subtract</string>
+    <string name="add">Add</string>
+</resources>
